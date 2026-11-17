@@ -1,0 +1,16 @@
+{
+  "name": "Павел Распутин — Бизнес-медиатор",
+  "short_name": "Распутин Медиация",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f2",
+  "theme_color": "#73162b",
+  "description": "Разрешение сложных и кризисных ситуаций между бизнес-партнёрами без судов и потери активов.",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "256x256",
+      "type": "image/svg+xml"
+    }
+  ]
+}
